@@ -17,8 +17,7 @@
 ## About Us
 
 TERR48YTE adalah ekstrakurikuler teknologi di SMAN 48 Jakarta yang berfokus pada pendidikan dan pengembangan keterampilan digital. Kami menyediakan wadah bagi siswa untuk belajar, berinovasi, dan mengeksplorasi dunia teknologi melalui berbagai bidang, antara lain:
-
-- 💻 Pemrograman
-- 🎨 Desain UI/UX
-- 🤖 Robotik
-- 🌐 Jaringan
+- 🎨 Design
+- 💻 Programming
+- 🤖 Robotics
+- 🌐 Networking
